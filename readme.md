@@ -21,6 +21,12 @@
 - Xyric ? demander à Michael
 - Citech ?
 - CMV Informatics ?
+- Sopresteria
+- Rectorat
+- Mairie
+- Carsat
+- Caf
+- Maad
 
 # Idées pour le portfolio
 
