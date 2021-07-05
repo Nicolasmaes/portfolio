@@ -10,6 +10,7 @@
 - BWA, candidature envoyée le 23.06.21
 - Agence Moutarde, candidature envoyée le 23.06.21
 - Gammoe, candidature envoyée le 23.06.21
+- Atol, repostulé le 05.07.21
 
 # Entreprises postulées pour le bac+3
 
