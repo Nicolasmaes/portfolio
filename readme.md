@@ -11,6 +11,10 @@
 - Agence Moutarde, candidature envoyée le 23.06.21
 - Gammoe, candidature envoyée le 23.06.21
 - Atol, repostulé le 05.07.21
+- I-com, postulé le 06.07.21
+- Alteos, postulé le 06.07.21
+- ABVSM, postulé le 06.07.21
+- Sweepin, postulé le 06.07.21
 
 # Entreprises postulées pour le bac+3
 
@@ -28,20 +32,18 @@
 - Carsat
 - Caf
 - Maad
+- Soprasteria
+- Mairie de Dijon
+- Carsat
+- Maad
+- Cognilearning
 
 # Idées pour le portfolio
 
-- pour les sources, faire un fichier PDF par projet
 - Pour la page d'accueil : afficher ma librairie javaScript et mes articles
 - Une phrase aléatoire sur moi
 - des photos de Coralie pour son insta
 - se connecter à l'api de strava puis afficher ma dernière course sur ma page d'accueil
-- ajouter un input où je peux écrir mon humeur, avec la date d'ajout
-
-Ecrire Nicolas Maës
-
-effacer pour écrire
-Développeur, Webdesigner, Futur papa, Marathonien, Sosie de The Rock, pas Sosie de The Rock (barré)
 
 # Titre de développeur web
 
