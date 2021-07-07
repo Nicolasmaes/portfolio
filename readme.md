@@ -10,7 +10,7 @@
 - BWA, candidature envoyée le 23.06.21
 - Agence Moutarde, candidature envoyée le 23.06.21
 - Gammeo, candidature envoyée le 23.06.21
-- Atol, repostulé le 05.07.21
+- Atol, repostulé le 05.07.21 réponse négative reçue le 07.07.21
 - I-com, postulé le 06.07.21
 - Alteos, postulé le 06.07.21
 - ABVSM, postulé le 06.07.21
