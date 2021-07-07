@@ -1,20 +1,21 @@
 # Entreprises postulées pour le stage
 
 - Hélix, ne prend pas de stagiaire
-- Domaine du goût, réponse négative reçue rapidement, je ne correspond pas.
+- Domaine du goût, réponse négative reçue rapidement, je ne correspond pas
 - Atol réponse négative, pas de stagiaire
 - Catapulpe, candidature envoyée le 22.06.21
-- Akyos, candidature envoyée le 22.06.21
+- Akyos, candidature envoyée le 22.06.21 ils ont pris mon cv en main propre
 - Digital Initiative, candidature envoyée le 23.06.21
 - Planet Bourgogne, candidature envoyée le 23.06.21
 - BWA, candidature envoyée le 23.06.21
 - Agence Moutarde, candidature envoyée le 23.06.21
-- Gammoe, candidature envoyée le 23.06.21
+- Gammeo, candidature envoyée le 23.06.21
 - Atol, repostulé le 05.07.21
 - I-com, postulé le 06.07.21
 - Alteos, postulé le 06.07.21
 - ABVSM, postulé le 06.07.21
 - Sweepin, postulé le 06.07.21
+- Y-mag, postulé le 07.07.21, ils ont pris mon cv en main propre
 
 # Entreprises postulées pour le bac+3
 
