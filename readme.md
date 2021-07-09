@@ -15,7 +15,11 @@
 - Alteos, postulé le 06.07.21
 - ABVSM, postulé le 06.07.21
 - Sweepin, postulé le 06.07.21
-- Y-mag, postulé le 07.07.21, ils ont pris mon cv en main propre
+- Y-mag, postulé le 07.07.21, ils ont pris mon cv en main propre, réponse négative reçue le 08.07.21
+- Jura Modelisme, postulé le 09.07.21, Pierre Saunay m'a écrit sur LinkedIn le soir-même
+- Mairie de Dijon, postulé le 09.07.21
+- Inspection académique de Dijon, postulé le 09.07.21
+- Carsat, postulé le 09.07.21
 
 # Entreprises postulées pour le bac+3
 
@@ -28,13 +32,10 @@
 - Citech ?
 - CMV Informatics ?
 - Sopresteria
-- Rectorat
-- Mairie
 - Carsat
-- Caf
+- Caf, aucune offre
 - Maad
 - Soprasteria
-- Mairie de Dijon
 - Carsat
 - Maad
 - Cognilearning
