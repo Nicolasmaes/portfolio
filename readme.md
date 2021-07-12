@@ -16,17 +16,26 @@
 - ABVSM, postulé le 06.07.21
 - Sweepin, postulé le 06.07.21
 - Y-mag, postulé le 07.07.21, ils ont pris mon cv en main propre, réponse négative reçue le 08.07.21
-- Jura Modelisme, postulé le 09.07.21, Pierre Saunay m'a écrit sur LinkedIn le soir-même
+- Jura Modelisme, postulé le 09.07.21, Pierre Saunay m'a écrit sur LinkedIn le soir-même, trop loin hélas.
 - Mairie de Dijon, postulé le 09.07.21
 - Inspection académique de Dijon, postulé le 09.07.21
 - Carsat, postulé le 09.07.21
 - PageUp, postulé le 12.07.21
-- CItech, postulé le 12.07.21
+- Citech, postulé le 12.07.21
 - CMV Informatics, postulé le 12.07.21
 - MAAD, postulé le 12.07.21
 - Linkeo, postulé le 12.07.21
 - SDI, postulé le 12.07.21
 - Terre de Web, postulé le 12.07.21
+- Aurélien Stein, postulé le 12.07.21
+- Logomotion, postulé le 12.07.21
+- goldNstudio, postulé le 12.07.21
+- Wazacom, Alexandrz Moullet m'a répondu qu'il n'y pas d'agence à Dijon pour le moment
+- Nancomcy, postulé le 12.07.21
+- Zooka, message envoyé sur leur site pour demander une adresse e-mail, pour leur envoyer mon cv et ma lettre de motivation
+- l'agence2com, postulé le 12.07.21
+- Magic Web, postulé le 12.07.21
+- Netref, postulé le 12.07.21
 
 # Entreprises postulées pour le bac+3
 
@@ -37,18 +46,14 @@
 - Xyric ? demander à Michael
 - JPM Partner
 - Sopra steria
-- Wazacom, attente de la réponse d'Alexandra Moullet
-- Macig web
-- agence 2 com
-- zooka
-- goldnstudio
-- logomotion
+- agence cactus
 - open21
-- web expert bourgogne
+- Pierre Etienne...
+- nova-seo...
+- monsieur mot-clé...
 
 # Idées pour le portfolio
-
-- Pour la page d'accueil : afficher ma librairie javaScript et mes articles
+s
 - Une phrase aléatoire sur moi
 - des photos de Coralie pour son insta
 - se connecter à l'api de strava puis afficher ma dernière course sur ma page d'accueil
