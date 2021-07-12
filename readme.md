@@ -36,6 +36,8 @@
 - l'agence2com, postulé le 12.07.21
 - Magic Web, postulé le 12.07.21
 - Netref, postulé le 12.07.21
+- Xefi, postulé le 12.07.21
+- Gammeo, repostulé le 12.07.21
 
 # Entreprises postulées pour le bac+3
 
