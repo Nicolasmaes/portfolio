@@ -12,7 +12,7 @@
 - Gammeo, candidature envoyée le 23.06.21
 - Atol, repostulé le 05.07.21 réponse négative reçue le 07.07.21
 - I-com, postulé le 06.07.21
-- Alteos, postulé le 06.07.21
+- Alteo, postulé le 06.07.21
 - ABVSM, postulé le 06.07.21
 - Sweepin, postulé le 06.07.21
 - Y-mag, postulé le 07.07.21, ils ont pris mon cv en main propre, réponse négative reçue le 08.07.21
@@ -20,25 +20,31 @@
 - Mairie de Dijon, postulé le 09.07.21
 - Inspection académique de Dijon, postulé le 09.07.21
 - Carsat, postulé le 09.07.21
+- PageUp, postulé le 12.07.21
+- CItech, postulé le 12.07.21
+- CMV Informatics, postulé le 12.07.21
+- MAAD, postulé le 12.07.21
+- Linkeo, postulé le 12.07.21
+- SDI, postulé le 12.07.21
+- Terre de Web, postulé le 12.07.21
 
 # Entreprises postulées pour le bac+3
 
-- Sensy, candidature envoyée le 17.06.21
+- Sensy, candidature envoyée le 17.06.21, réponse négavtive reçue
 
 # A envoyer
 
-- PageUp
 - Xyric ? demander à Michael
-- Citech ?
-- CMV Informatics ?
-- Sopresteria
-- Carsat
-- Caf, aucune offre
-- Maad
-- Soprasteria
-- Carsat
-- Maad
-- Cognilearning
+- JPM Partner
+- Sopra steria
+- Wazacom, attente de la réponse d'Alexandra Moullet
+- Macig web
+- agence 2 com
+- zooka
+- goldnstudio
+- logomotion
+- open21
+- web expert bourgogne
 
 # Idées pour le portfolio
 
