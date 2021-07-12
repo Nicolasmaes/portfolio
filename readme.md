@@ -53,7 +53,7 @@
 - monsieur mot-clé...
 
 # Idées pour le portfolio
-s
+
 - Une phrase aléatoire sur moi
 - des photos de Coralie pour son insta
 - se connecter à l'api de strava puis afficher ma dernière course sur ma page d'accueil
