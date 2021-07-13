@@ -38,6 +38,10 @@
 - Netref, postulé le 12.07.21
 - Xefi, postulé le 12.07.21
 - Gammeo, repostulé le 12.07.21
+- Digital Concept, postulé le 13.07.21
+- Casis, postulé le 13.07.21
+- Da Viking Code, postulé le 13.07.21
+- 
 
 # Entreprises postulées pour le bac+3
 
@@ -63,3 +67,316 @@
 # Titre de développeur web
 
 - rédiger d'ores et déjà le rapport de stage 
+
+
+AEROPIX
+aero-pix.fr
+28 A rue des Perrières
+21000 DIJON
+Olivier LOIZELET
+olivier@aero-pix.fr
+07 88 48 13 30
+
+ASA INFORMATIQUE
+asa-informatique.fr
+Les Tilles
+21320 ROUVRES SOUS MEILLY
+Franck FEURTET
+administratif@asa-informatique.fr
+03 73 27 05 45
+
+ATSUKE
+atsuke.com/ticketing/index/
+64 E rue Sully 21000 DIJON
+Damien BOUSSON
+hello@atsuke.com
+01 44 59 30 40
+
+B4ROAD
+b4road.com
+11 rue de Serrigny 21000 DIJON
+Aurélien CHEVALIER
+a.chevalier@b4road.com
+06 09 22 21 77
+
+BAQIO
+baqio.com
+10 Avenue Maréchal Foch 21000 DIJON
+Benoit TAILLEFERT
+benoit@baqio.com
+09 70 70 20 02
+https://www.baqio.com/
+
+BTD SYSTEMS
+btd.systems
+1 Impasse Boirac
+21000 DIJON
+Bertrand HAEMMERLE
+info@btdsystems.fr
+03 58 28 92 51
+https://www.btd.systems/
+BTD Systems - Brand - Trade - Deal
+Agence commerciale digitale sourceur de solutions innovantes pour l’équipement et la sécurité des hommes et des chantiers
+
+CADOLES
+cadoles.com
+170 avenue Jean Jaurès 21000 DIJON
+Laetitia FORNEROT
+contact@cadoles.com
+03 73 27 02 86
+
+CEN CONNECT
+cenconnect.com
+Parc Mazen-Sully / Zone des biotechnologies Impasse Françoise Dolto 21000 DIJON
+David PIERON
+david.pieron@groupecen.com
+03 80 68 05 08
+
+CPAGE
+cpage.fr
+19 rue Louis de Broglie 21000 DIJON Cedex
+Gaëlle JOUANNE
+gaëlle.jouanne@cpage.fr
+03 80 28 46 61
+
+DIGIBOIS
+digibois.com
+12 rue du Golf 21800 QUETIGNY
+Samuel GRAND
+sgrand@digibois.com
+03 80 68 28 88
+
+I-BP
+informatique.banquepopulaire.fr
+1 rue du Pâquier BP22 21601 LONGVIC Cedex
+Thierry HAUSTRAETE
+thierry.hautraeste@i-bp.fr
+03 80 68 73 73
+
+IIP-IP, la Coop digitale
+ip-ip.fr
+CAE Bourgogne - L’Envol (21) 2 rue MABLY - DIJON
+Céline BAVEREL
+contact@ip-ip.coop
+06 52 14 16 36
+
+JPM PARTNER / JPM NEXT / JPM et Associés
+jpmpartner.com
+6 B, Avenue General Canzio BP19 21240 TALANT
+Jean LAURENTI
+jean.laurenti@jpm-partner.com
+03 80 56 02 31
+
+MEDIAGRAPHIQUE
+mediagraphique.com
+39 M Avenue du 14 Juillet 21300 CHENÔVE
+Pascal LAFONT
+pascal.lafont@mediagraphique.com
+03 80 54 02 42
+
+SYSTALIUM
+systalium.com
+11 rue Jean Giono 21000 DIJON
+Soufiane MOUALI
+info@systalium.com
+03 80 60 98 00
+
+SAS VAOVERT
+vaovert.fr
+16 rue de Mulhouse 21000 DIJON
+Mélanie MAMBRÉ
+hello@vaovert.fr
+03 80 71 98 24
+
+TOOLIB
+toolib.fr
+15 Boulevard de Brosses 21000 DIJON
+Guillaume BOULATON
+gb@toolib.fr
+06 81 98 24 58
+
+VISIONSI
+vision-si.com
+44A Avenue Aristide Briand 21000 DIJON
+Fabien GIRAULT
+fabien@vision-si.com
+06 26 11 47 86
+
+XYRIC
+xyric.com
+8 rue du Cap Vert 21800 QUETIGNY
+Sandrine CAUMETTE
+sandrine.caumette@xyric.com
+03 80 73 99 02
+
+SERVICES INFORMATIQUES DE GRANDES ORGANISATIONS :
+BPI FRANCE BOURGOGNEFRANCHE-COMTÉ
+bpifrance.fr
+13 rue Jean Giono 21000 DIJON
+Pierre-Alain TRUAN
+pa.truan@bpifrance.fr
+03 81 47 08 91
+
+CAISSE D’EPARGNE BFC
+caisse-epargne.fr/bourgogne-franche-comte/
+1, rond-point de la Nation 21000 DIJON
+Sylvie GUILLONNEAU
+sylvie.guillonneau@cebfc.caisse-epargne.fr
+03 80 70 44 00
+
+DECA-BFC
+deca-bfc.com
+Maison Régionale de l’Innovation
+64 A rue Sully - 21000 DIJON
+Adeline POQUE
+contact@deca-bfc.com
+03 80 40 33 28
+
+LA FOODTECH
+lafoodtech.fr
+1 place François Rude 21000 DIJON
+Agathe MATHEY
+amathey@lafood.tech
+06 49 37 66 03
+
+LES DOCKS NUMÉRIQUES
+lesdocks.net
+14 rue Jean Giono 21000 DIJON
+Alexia AUBELLE
+Alexia@lesdocks.net
+07 66 20 16 75
+
+AER BFC
+aer-bfc.com
+Agence Dijon : Maison Régionale de l’Innovation 64 A rue Sully CS 77124 21071 DIJON Cedex
+Alban STREBELLE
+astrebelle@aer-bfc.com
+03 80 40 33 82
+
+DIJON MÉTROPOLE DÉVELOPPEMENT
+Alban STREBELLE
+astrebelle@aer-bfc.com
+03 80 40 33 82
+40 Avenue du Drapeau 21000 DIJON
+Emmanuel BUGHIN
+contact@dijon-metropole-developpement.fr
+03 80 68 02 90
+
+ASSOCIATION GIFOD
+gifod.fr
+19 Avenue Albert Camus, Bâtiment A 21000 DIJON
+Olivier KIRSCH
+okirsch@gifod.fr
+03 80 72 13 97
+
+EDF
+edf.fr
+40 Avenue Françoise Giroud 21000 DIJON
+Frank MAILLOT
+frank.maillot@edf.fr
+03 80 78 54 19
+
+ENGIE
+engie.com
+65 rue de Longvic - BP40429 21004 DIJON Cedex
+Catherine MINAUX
+catherine.minaux@engie.com
+03 80 73 96 50
+
+GROUPE LA POSTE
+laposte.fr
+15 boulevard de Brosses
+BP 15185, 21031 Dijon Cedex
+Kildine BATAILLE
+kildine.bataille@laposte.fr
+06 99 57 18 61
+
+MUTUALITÉ FRANÇAISE BOURGOGNEFRANCHE-COMTÉ
+bourgognefranchecomte.mutualite.fr
+11 rue Jean Giono 21000 DIJON
+Bruno HERRY
+bruno.herry@bfc.mutualite.fr
+03 80 50 11 13
+
+FORMAPI
+formapi.fr
+19 Avenue Albert Camus Bât. A 21000 DIJON
+Olivier FOUQUET
+olivier-fouquet@formapi.fr
+03 80 74 08 88
+(enfin, plus ou moins grandes quoi 🙂 )
+
+
+https://creationsiteinternetdijon.fr/
+https://premice-bourgogne.com/
+https://creation-web-dijon.fr/
+https://zooka.fr/creation-site-internet-dijon/
+https://www.rgbc.fr/
+https://www.1dpixel.com/
+https://www.vingt-quatre.fr/
+https://www.tempsreel.fr/
+https://www.nuance-epicee.fr/
+http://neocom-dijon.fr/site-internet/
+http://www.ctoutcomme.fr/
+http://www.agence-webmaster.com/
+http://www.siteinternet-dijon.com/
+http://creation-sites-internet-dijon-21.fr/
+http://www.adrem-communication.com/
+http://www.lasolutionestici.com/
+http://design.imeji.net/
+http://www.creamotion.com/
+http://studio-leonard.com/
+
+https://www.cadoles.com/
+https://jfr-presta-informatique.fr/
+https://www.neos-sdi.com/
+
+MEOSIS
+IT link
+Umanis
+KiwiCube
+Expectra
+alteca
+CS Group Solutions
+LeHibou-Thivéo
+Almatek
+Bruce
+Synergie
+CFAST
+OCI Informatique
+Maincare Solutions
+SAVOYE
+CFAST
+Science me Up
+DTA INGENIERIE
+Schneider Electric
+S2H
+GFI
+CGI
+ADISTA
+Inova Web
+easyQuorum
+invenio-rh
+CFAST
+AGENCE DE DÉVELOPPEMENT TOURISTIQUE - CÔTE-D'OR TOURISME - Dijon
+
+https://www.btoweb.fr/
+http://www.amt-transversales.com/
+https://creativecom-bourgogne.fr/
+https://www.numeric-web.fr/
+https://www.ekinox.com/
+https://www.propulse.fr/
+https://web-ap.fr/
+https://www.netizis.fr/
+https://agence-ah.fr/
+https://agencecitrongivre.com/contact
+https://www.kisli.com/
+https://www.studiomagnetique.fr/
+https://cometsystemes.com/
+https://www.premiereadroite.com/internet/creation-site-internet-dijon/
+https://www.mediacom-studio.net/dijon.html
+https://www.spark-studio.fr/services/web.html
+https://www.integra-web.net/
+https://www.systalium.com/developpement-web/
+https://eclolink.com/
+https://www.netinup.fr/
