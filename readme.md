@@ -38,19 +38,21 @@
 - Netref, postulé le 12.07.21
 - Xefi, postulé le 12.07.21
 - Gammeo, repostulé le 12.07.21
-- Digital Concept, postulé le 13.07.21
+- Digital Concept, postulé le 13.07.21 réponse négative reçue
 - Casis, postulé le 13.07.21
 - Da Viking Code, postulé le 13.07.21
-- 
-
-# Entreprises postulées pour le bac+3
-
 - Sensy, candidature envoyée le 17.06.21, réponse négavtive reçue
+- Atsuke, postulé le 13.07.21
+- B4road, postulé le 13.07.21
+- Baqio, postulé le 13.07.21
+- BTD Systems, postulé le 13.07.21
+- Cadoles, postulé le 13.07.21
+- Groupe Cen, postulé le 13.07.21
+- Xyric, postulé le 13.07.21
+- informatique Banque Populaire, postulé le 13.07.21
 
 # A envoyer
 
-- Xyric ? demander à Michael
-- JPM Partner
 - Sopra steria
 - agence cactus
 - open21
@@ -60,8 +62,6 @@
 
 # Idées pour le portfolio
 
-- Une phrase aléatoire sur moi
-- des photos de Coralie pour son insta
 - se connecter à l'api de strava puis afficher ma dernière course sur ma page d'accueil
 
 # Titre de développeur web
@@ -69,7 +69,7 @@
 - rédiger d'ores et déjà le rapport de stage 
 
 
-AEROPIX
+AEROPIX entreprise de vidéo en drone...
 aero-pix.fr
 28 A rue des Perrières
 21000 DIJON
@@ -77,7 +77,7 @@ Olivier LOIZELET
 olivier@aero-pix.fr
 07 88 48 13 30
 
-ASA INFORMATIQUE
+ASA INFORMATIQUE vers Pouilly-en-Auxois
 asa-informatique.fr
 Les Tilles
 21320 ROUVRES SOUS MEILLY
@@ -85,21 +85,21 @@ Franck FEURTET
 administratif@asa-informatique.fr
 03 73 27 05 45
 
-ATSUKE
+ATSUKE envoyé
 atsuke.com/ticketing/index/
 64 E rue Sully 21000 DIJON
 Damien BOUSSON
 hello@atsuke.com
 01 44 59 30 40
 
-B4ROAD
+B4ROAD envoyé
 b4road.com
 11 rue de Serrigny 21000 DIJON
 Aurélien CHEVALIER
 a.chevalier@b4road.com
 06 09 22 21 77
 
-BAQIO
+BAQIO envoyé
 baqio.com
 10 Avenue Maréchal Foch 21000 DIJON
 Benoit TAILLEFERT
@@ -107,7 +107,7 @@ benoit@baqio.com
 09 70 70 20 02
 https://www.baqio.com/
 
-BTD SYSTEMS
+BTD SYSTEMS envoyé
 btd.systems
 1 Impasse Boirac
 21000 DIJON
@@ -115,17 +115,15 @@ Bertrand HAEMMERLE
 info@btdsystems.fr
 03 58 28 92 51
 https://www.btd.systems/
-BTD Systems - Brand - Trade - Deal
-Agence commerciale digitale sourceur de solutions innovantes pour l’équipement et la sécurité des hommes et des chantiers
 
-CADOLES
+CADOLES envoyé
 cadoles.com
 170 avenue Jean Jaurès 21000 DIJON
 Laetitia FORNEROT
 contact@cadoles.com
 03 73 27 02 86
 
-CEN CONNECT
+CEN CONNECT envoyé
 cenconnect.com
 Parc Mazen-Sully / Zone des biotechnologies Impasse Françoise Dolto 21000 DIJON
 David PIERON
@@ -146,12 +144,14 @@ Samuel GRAND
 sgrand@digibois.com
 03 80 68 28 88
 
-I-BP
+I-BP envoyé
 informatique.banquepopulaire.fr
 1 rue du Pâquier BP22 21601 LONGVIC Cedex
 Thierry HAUSTRAETE
 thierry.hautraeste@i-bp.fr
 03 80 68 73 73
+
+BtoWeb
 
 IIP-IP, la Coop digitale
 ip-ip.fr
@@ -202,7 +202,7 @@ Fabien GIRAULT
 fabien@vision-si.com
 06 26 11 47 86
 
-XYRIC
+XYRIC envoyé
 xyric.com
 8 rue du Cap Vert 21800 QUETIGNY
 Sandrine CAUMETTE
