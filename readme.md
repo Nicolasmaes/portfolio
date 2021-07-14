@@ -37,7 +37,7 @@
 - Magic Web, postulé le 12.07.21
 - Netref, postulé le 12.07.21
 - Xefi, postulé le 12.07.21
-- Gammeo, repostulé le 12.07.21
+- Gammeo, repostulé le 12.07.21, entretien téléphone le 15.07.21
 - Digital Concept, postulé le 13.07.21 réponse négative reçue
 - Casis, postulé le 13.07.21
 - Da Viking Code, postulé le 13.07.21
@@ -50,6 +50,8 @@
 - Groupe Cen, postulé le 13.07.21
 - Xyric, postulé le 13.07.21
 - informatique Banque Populaire, postulé le 13.07.21
+- Groupe Elabor, postulé le 14.07.21
+- 
 
 # A envoyer
 
