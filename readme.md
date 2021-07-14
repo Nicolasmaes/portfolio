@@ -1,15 +1,15 @@
 # Entreprises postulées pour le stage
 
 - Hélix, ne prend pas de stagiaire
-- Domaine du goût, réponse négative reçue rapidement, je ne correspond pas
-- Atol réponse négative, pas de stagiaire
+- 2x Domaine du goût, réponse négative reçue rapidement, je ne correspond pas, repostulé le 14.07.21
+- 2x Atol réponse négative, pas de stagiaire, repostulé le 05.07.21 réponse négative reçue le 07.07.21
 - Catapulpe, candidature envoyée le 22.06.21
 - Akyos, candidature envoyée le 22.06.21 ils ont pris mon cv en main propre
 - Digital Initiative, candidature envoyée le 23.06.21
-- Planet Bourgogne, candidature envoyée le 23.06.21, entretien en visio le  08.07.21, des nouvelles à venir le 13.07.21
+- Planet Bourgogne, candidature envoyée le 23.06.21, entretien en visio le  08.07.21, nouvel entretien le 15.07.21
 - BWA, candidature envoyée le 23.06.21
 - Agence Moutarde, candidature envoyée le 23.06.21
-- Gammeo, candidature envoyée le 23.06.21
+- 2x Gammeo, candidature envoyée le 23.06.21, repostulé le 12.07.21, entretien téléphone le 15.07.21
 - Atol, repostulé le 05.07.21 réponse négative reçue le 07.07.21
 - I-com, postulé le 06.07.21
 - Alteo, postulé le 06.07.21
@@ -37,7 +37,6 @@
 - Magic Web, postulé le 12.07.21
 - Netref, postulé le 12.07.21
 - Xefi, postulé le 12.07.21
-- Gammeo, repostulé le 12.07.21, entretien téléphone le 15.07.21
 - Digital Concept, postulé le 13.07.21 réponse négative reçue
 - Casis, postulé le 13.07.21
 - Da Viking Code, postulé le 13.07.21
@@ -61,6 +60,9 @@
 - Pierre Etienne...
 - nova-seo...
 - monsieur mot-clé...
+- Celad
+- Eiffage 
+- APRR
 
 # Idées pour le portfolio
 
@@ -312,56 +314,17 @@ olivier-fouquet@formapi.fr
 https://creationsiteinternetdijon.fr/
 https://premice-bourgogne.com/
 https://creation-web-dijon.fr/
-https://zooka.fr/creation-site-internet-dijon/
 https://www.rgbc.fr/
 https://www.1dpixel.com/
 https://www.vingt-quatre.fr/
 https://www.tempsreel.fr/
 https://www.nuance-epicee.fr/
 http://neocom-dijon.fr/site-internet/
-http://www.ctoutcomme.fr/
-http://www.agence-webmaster.com/
-http://www.siteinternet-dijon.com/
-http://creation-sites-internet-dijon-21.fr/
+http://www.ctoutcomme.fr/ non
+http://www.siteinternet-dijon.com/ ils ont fait le site de Chico
 http://www.adrem-communication.com/
 http://www.lasolutionestici.com/
-http://design.imeji.net/
 http://www.creamotion.com/
-http://studio-leonard.com/
-
-https://www.cadoles.com/
-https://jfr-presta-informatique.fr/
-https://www.neos-sdi.com/
-
-MEOSIS
-IT link
-Umanis
-KiwiCube
-Expectra
-alteca
-CS Group Solutions
-LeHibou-Thivéo
-Almatek
-Bruce
-Synergie
-CFAST
-OCI Informatique
-Maincare Solutions
-SAVOYE
-CFAST
-Science me Up
-DTA INGENIERIE
-Schneider Electric
-S2H
-GFI
-CGI
-ADISTA
-Inova Web
-easyQuorum
-invenio-rh
-CFAST
-AGENCE DE DÉVELOPPEMENT TOURISTIQUE - CÔTE-D'OR TOURISME - Dijon
-
 https://www.btoweb.fr/
 http://www.amt-transversales.com/
 https://creativecom-bourgogne.fr/
@@ -382,3 +345,33 @@ https://www.integra-web.net/
 https://www.systalium.com/developpement-web/
 https://eclolink.com/
 https://www.netinup.fr/
+https://jfr-presta-informatique.fr/
+https://www.neos-sdi.com/
+
+MEOSIS
+IT link
+Umanis
+KiwiCube
+Expectra
+alteca
+CS Group Solutions
+LeHibou-Thivéo
+Almatek
+Bruce
+Synergie
+CFAST
+OCI Informatique
+SAVOYE
+CFAST
+Science me Up
+DTA INGENIERIE
+Schneider Electric
+S2H
+GFI
+CGI
+ADISTA
+Inova Web
+easyQuorum
+invenio-rh
+CFAST
+AGENCE DE DÉVELOPPEMENT TOURISTIQUE - CÔTE-D'OR TOURISME - Dijon
