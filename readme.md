@@ -50,6 +50,7 @@
 - Xyric, postulé le 13.07.21
 - informatique Banque Populaire, postulé le 13.07.21
 - Groupe Elabor, postulé le 14.07.21
+- Eiffage, postulé le 15.07.21
 - 
 
 # A envoyer
@@ -62,7 +63,8 @@
 - monsieur mot-clé...
 - Celad
 - arobase
-- Eiffage 
+- Bouygues
+- Vinci
 - https://fr.jobrapido.com/jobpreview/245519937?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
 - APRR
 
