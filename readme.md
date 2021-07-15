@@ -44,7 +44,7 @@
 - Atsuke, postulé le 13.07.21
 - B4road, postulé le 13.07.21
 - Baqio, postulé le 13.07.21
-- BTD Systems, postulé le 13.07.21
+- BTD Systems, postulé le 13.07.21, réponse négative reçue
 - Cadoles, postulé le 13.07.21
 - Groupe Cen, postulé le 13.07.21
 - Xyric, postulé le 13.07.21
