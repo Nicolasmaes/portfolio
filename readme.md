@@ -1,5 +1,3 @@
-# Entreprises postulées pour le stage
-
 - Hélix, ne prend pas de stagiaire
 - 2x Domaine du goût, réponse négative reçue rapidement, je ne correspond pas, repostulé le 14.07.21
 - 2x Atol réponse négative, pas de stagiaire, repostulé le 05.07.21 réponse négative reçue le 07.07.21
@@ -51,7 +49,13 @@
 - informatique Banque Populaire, postulé le 13.07.21
 - Groupe Elabor, postulé le 14.07.21
 - Eiffage, postulé le 15.07.21
-- 
+- Les docks numériques, postulé le 15.07.21
+- Interactive solutions, postulé le 15.07.21
+- Wittym, postulé le 15.07.21
+- Cpage, postulé le 15.07.21
+- Digibois, postulé le 15.07.21
+- Vaovert, postulé le 15.07.21
+- Toolib, postulé le 15.07.21
 
 # A envoyer
 
@@ -62,11 +66,9 @@
 - nova-seo...
 - monsieur mot-clé...
 - Celad
-- arobase
-- Bouygues
-- Vinci
+- arobase agence web
 - https://fr.jobrapido.com/jobpreview/245519937?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
-- APRR
+- http://symone.fr/
 
 # Idées pour le portfolio
 
@@ -84,14 +86,6 @@ aero-pix.fr
 Olivier LOIZELET
 olivier@aero-pix.fr
 07 88 48 13 30
-
-ASA INFORMATIQUE vers Pouilly-en-Auxois
-asa-informatique.fr
-Les Tilles
-21320 ROUVRES SOUS MEILLY
-Franck FEURTET
-administratif@asa-informatique.fr
-03 73 27 05 45
 
 ATSUKE envoyé
 atsuke.com/ticketing/index/
@@ -138,14 +132,14 @@ David PIERON
 david.pieron@groupecen.com
 03 80 68 05 08
 
-CPAGE
+CPAGE envoyé
 cpage.fr
 19 rue Louis de Broglie 21000 DIJON Cedex
 Gaëlle JOUANNE
 gaëlle.jouanne@cpage.fr
 03 80 28 46 61
 
-DIGIBOIS
+DIGIBOIS envoyé
 digibois.com
 12 rue du Golf 21800 QUETIGNY
 Samuel GRAND
@@ -189,14 +183,14 @@ Soufiane MOUALI
 info@systalium.com
 03 80 60 98 00
 
-SAS VAOVERT
+SAS VAOVERT envoyé
 vaovert.fr
 16 rue de Mulhouse 21000 DIJON
 Mélanie MAMBRÉ
 hello@vaovert.fr
 03 80 71 98 24
 
-TOOLIB
+TOOLIB envoyé
 toolib.fr
 15 Boulevard de Brosses 21000 DIJON
 Guillaume BOULATON
@@ -247,7 +241,7 @@ Agathe MATHEY
 amathey@lafood.tech
 06 49 37 66 03
 
-LES DOCKS NUMÉRIQUES
+LES DOCKS NUMÉRIQUES envoyé
 lesdocks.net
 14 rue Jean Giono 21000 DIJON
 Alexia AUBELLE
@@ -361,9 +355,7 @@ alteca
 CS Group Solutions
 LeHibou-Thivéo
 Almatek
-Bruce
 Synergie
-CFAST
 OCI Informatique
 SAVOYE
 CFAST
