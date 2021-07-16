@@ -56,6 +56,7 @@
 - Digibois, postulé le 15.07.21
 - Vaovert, postulé le 15.07.21
 - Toolib, postulé le 15.07.21
+- VisionSI, postulé le 16.07.21
 
 # A envoyer
 
@@ -197,7 +198,7 @@ Guillaume BOULATON
 gb@toolib.fr
 06 81 98 24 58
 
-VISIONSI
+VISIONSI envoyé
 vision-si.com
 44A Avenue Aristide Briand 21000 DIJON
 Fabien GIRAULT
