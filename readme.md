@@ -58,16 +58,17 @@
 - Vaovert, postulé le 15.07.21
 - Toolib, postulé le 15.07.21
 - VisionSI, postulé le 16.07.21
+- Symone, postulé le 19.07.21
+- Celad, postulé le 19.07.21
+- Systalium, postulé le 19.07.21
 
 # A envoyer
 
 - Sopra steria
 - agence cactus
 - open21
-- Pierre Etienne...
-- nova-seo...
+- Pierre Etienne
 - monsieur mot-clé...
-- Celad
 - arobase agence web
 - https://fr.jobrapido.com/jobpreview/245519937?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
 - http://symone.fr/
@@ -302,7 +303,7 @@ Bruno HERRY
 bruno.herry@bfc.mutualite.fr
 03 80 50 11 13
 
-FORMAPI
+FORMAPI...
 formapi.fr
 19 Avenue Albert Camus Bât. A 21000 DIJON
 Olivier FOUQUET
