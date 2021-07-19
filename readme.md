@@ -41,7 +41,7 @@
 - Sensy, candidature envoyée le 17.06.21, réponse négavtive reçue
 - Atsuke, postulé le 13.07.21
 - B4road, postulé le 13.07.21
-- Baqio, postulé le 13.07.21
+- Baqio, postulé le 13.07.21, réponse négative reçue
 - BTD Systems, postulé le 13.07.21, réponse négative reçue
 - Cadoles, postulé le 13.07.21
 - Groupe Cen, postulé le 13.07.21
