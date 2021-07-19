@@ -46,6 +46,7 @@
 - Cadoles, postulé le 13.07.21
 - Groupe Cen, postulé le 13.07.21
 - Xyric, postulé le 13.07.21
+- Altagil, réponse négative reçue
 - informatique Banque Populaire, postulé le 13.07.21
 - Groupe Elabor, postulé le 14.07.21
 - Eiffage, postulé le 15.07.21
