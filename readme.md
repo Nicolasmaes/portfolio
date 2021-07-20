@@ -4,11 +4,10 @@
 - Catapulpe, candidature envoyée le 22.06.21
 - Akyos, candidature envoyée le 22.06.21 ils ont pris mon cv en main propre
 - Digital Initiative, candidature envoyée le 23.06.21
-- Planet Bourgogne, candidature envoyée le 23.06.21, entretien en visio le  08.07.21, nouvel entretien le 15.07.21
+- Planet Bourgogne, candidature envoyée le 23.06.21, entretien en visio le  08.07.21, nouvel entretien le 15.07.21, réponse négative reçue
 - BWA, candidature envoyée le 23.06.21
 - Agence Moutarde, candidature envoyée le 23.06.21
-- 2x Gammeo, candidature envoyée le 23.06.21, repostulé le 12.07.21, entretien téléphone le 15.07.21
-- Atol, repostulé le 05.07.21 réponse négative reçue le 07.07.21
+- 2x Gammeo, candidature envoyée le 23.06.21, repostulé le 12.07.21
 - I-com, postulé le 06.07.21
 - Alteo, postulé le 06.07.21
 - ABVSM, postulé le 06.07.21
@@ -38,7 +37,7 @@
 - Digital Concept, postulé le 13.07.21 réponse négative reçue
 - Casis, postulé le 13.07.21
 - Da Viking Code, postulé le 13.07.21
-- Sensy, candidature envoyée le 17.06.21, réponse négavtive reçue
+- Sensy, candidature envoyée le 17.06.21, réponse négative reçue
 - Atsuke, postulé le 13.07.21
 - B4road, postulé le 13.07.21
 - Baqio, postulé le 13.07.21, réponse négative reçue
@@ -65,6 +64,12 @@
 - Endeavour Development France, postulé le 20.07.21
 - Graper, message envoyé sur Messenger le 20.07.21
 - Ipip, la Coop digitale, postulé le 20.07.21
+
+entreprises contactées : 66
+réponses négatives reçues : 10 (dont 1 après entretien)
+réponses positives : 1
+entretiens passés : 1
+
 
 # A envoyer
 
