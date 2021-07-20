@@ -61,6 +61,10 @@
 - Symone, postulé le 19.07.21
 - Celad, postulé le 19.07.21
 - Systalium, postulé le 19.07.21
+- JFR Presta-Informatique, postulé le 20.07.21
+- Endeavour Development France, postulé le 20.07.21
+- Graper, message envoyé sur Messenger le 20.07.21
+- Ipip, la Coop digitale, postulé le 20.07.21
 
 # A envoyer
 
