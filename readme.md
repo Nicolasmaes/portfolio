@@ -83,6 +83,8 @@ entretiens passés : 1
 - http://symone.fr/
 - https://www.anthropi.fr/
 - https://www.couleuretconnection.com/
+- https://www.oci.fr/prestataire-informatique-dijon/
+- https://www.amiltone.com/
 
 # Idées pour le portfolio
 
