@@ -81,6 +81,8 @@ entretiens passés : 1
 - arobase agence web
 - https://fr.jobrapido.com/jobpreview/245519937?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
 - http://symone.fr/
+- https://www.anthropi.fr/
+- https://www.couleuretconnection.com/
 
 # Idées pour le portfolio
 
