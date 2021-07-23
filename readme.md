@@ -67,8 +67,8 @@
 
 entreprises contactées : 66
 réponses négatives reçues : 10 (dont 1 après entretien)
-réponses positives : 1
-entretiens passés : 1
+réponses positives : 2
+entretiens passés : 3
 
 
 # A envoyer
