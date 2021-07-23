@@ -54,7 +54,7 @@
 - Wittym, postulé le 15.07.21
 - Cpage, postulé le 15.07.21
 - Digibois, postulé le 15.07.21
-- Vaovert, postulé le 15.07.21
+- Vaovert, postulé le 15.07.21, réponse négatigve reçue
 - Toolib, postulé le 15.07.21
 - VisionSI, postulé le 16.07.21
 - Symone, postulé le 19.07.21
@@ -66,9 +66,9 @@
 - Ipip, la Coop digitale, postulé le 20.07.21
 
 entreprises contactées : 66
-réponses négatives reçues : 10 (dont 1 après entretien)
+réponses négatives reçues : 11 (dont 1 après entretien)
 réponses positives : 2
-entretiens passés : 3
+entretiens passés : 4
 
 
 # A envoyer
