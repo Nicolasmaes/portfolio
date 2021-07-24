@@ -86,6 +86,8 @@ entretiens passés : 4
 - https://www.oci.fr/prestataire-informatique-dijon/
 - https://www.amiltone.com/
 - https://www.vitagora.com/vitagora/
+- Owlnext
+- ON Dijon
 
 # Idées pour le portfolio
 
