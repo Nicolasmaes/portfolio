@@ -85,6 +85,7 @@ entretiens passés : 4
 - https://www.couleuretconnection.com/
 - https://www.oci.fr/prestataire-informatique-dijon/
 - https://www.amiltone.com/
+- https://www.vitagora.com/vitagora/
 
 # Idées pour le portfolio
 
