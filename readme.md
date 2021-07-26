@@ -67,7 +67,7 @@
 
 entreprises contactées : 66
 réponses négatives reçues : 11 (dont 1 après entretien)
-réponses positives : 2
+réponses positives : 4 (Jura Modelisme, Domaine du Gout, APRR, Gammeo)
 entretiens passés : 4
 
 
