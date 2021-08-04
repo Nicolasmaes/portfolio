@@ -42,7 +42,7 @@
 - B4road, postulé le 13.07.21
 - Baqio, postulé le 13.07.21, réponse négative reçue
 - BTD Systems, postulé le 13.07.21, réponse négative reçue
-- Cadoles, postulé le 13.07.21
+- Cadoles, postulé le 13.07.21, réponse négative reçue
 - Groupe Cen, postulé le 13.07.21
 - Xyric, postulé le 13.07.21
 - Altagil, réponse négative reçue
@@ -66,9 +66,9 @@
 - Ipip, la Coop digitale, postulé le 20.07.21
 
 entreprises contactées : 66
-réponses négatives reçues : 11 (dont 1 après entretien)
+réponses négatives reçues : 12 (dont 1 après entretien, Planet' Bourgogne)
 réponses positives : 4 (Jura Modelisme, Domaine du Gout, APRR, Gammeo)
-entretiens passés : 4
+entretiens passés : 4 (Jura Modélisme, Planet' Bourgogne, APRR, Gammeo)
 
 
 # A envoyer
