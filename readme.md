@@ -389,4 +389,3 @@ Inova Web
 easyQuorum
 invenio-rh
 CFAST
-AGENCE DE DÉVELOPPEMENT TOURISTIQUE - CÔTE-D'OR TOURISME - Dijon
