@@ -63,7 +63,7 @@
 - JFR Presta-Informatique, postulé le 20.07.21
 - Endeavour Development France, postulé le 20.07.21
 - Graper, message envoyé sur Messenger le 20.07.21
-- Ipip, la Coop digitale, postulé le 20.07.21
+- Ipip, la Coop digitale, postulé le 20.07.21 réponse négatigve reçue
 
 entreprises contactées : 66
 réponses négatives reçues : 12 (dont 1 après entretien, Planet' Bourgogne)
