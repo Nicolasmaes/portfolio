@@ -77,7 +77,7 @@ entretiens passés : 4 (Jura Modélisme, Planet' Bourgogne, APRR, Gammeo)
 - agence cactus
 - open21
 - Pierre Etienne
-- monsieur mot-clé...
+- monsieur mot-clé, il n'a pas répondu sur LinkedIn
 - arobase agence web
 - https://fr.jobrapido.com/jobpreview/245519937?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
 - http://symone.fr/
