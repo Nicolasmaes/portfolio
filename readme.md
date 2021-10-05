@@ -91,11 +91,11 @@ entretiens passés : 4 (Jura Modélisme, Planet' Bourgogne, APRR, Gammeo)
 
 # Idées pour le portfolio
 
-- se connecter à l'api de strava puis afficher ma dernière course sur ma page d'accueil
+- se connecter à l'api de strava puis afficher ma dernière course sur ma page d'accueil, normalement gratuite
 
 # Titre de développeur web
 
-- rédiger d'ores et déjà le rapport de stage 
+- rédiger d'ores et déjà le rapport de stage, pas spur que j'aie le temps...
 
 
 AEROPIX entreprise de vidéo en drone...
