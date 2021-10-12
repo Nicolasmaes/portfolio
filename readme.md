@@ -4,7 +4,7 @@
 - Catapulpe, candidature envoyée le 22.06.21
 - Akyos, candidature envoyée le 22.06.21 ils ont pris mon cv en main propre
 - Digital Initiative, candidature envoyée le 23.06.21
-- Planet Bourgogne, candidatu  re envoyée le 23.06.21, entretien en visio le  08.07.21, nouvel entretien le 15.07.21, réponse négative reçue
+- Planet Bourgogne, candidature envoyée le 23.06.21, entretien en visio le  08.07.21, nouvel entretien le 15.07.21, réponse négative reçue
 - BWA, candidature envoyée le 23.06.21
 - Agence Moutarde, candidature envoyée le 23.06.21
 - 2x Gammeo, candidature envoyée le 23.06.21, repostulé le 12.07.21
