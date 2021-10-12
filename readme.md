@@ -380,7 +380,7 @@ SAVOYE
 CFAST
 Science me Up
 DTA INGENIERIE
-Sch
+Schneider Electric
 S2H
 GFI
 CGI
