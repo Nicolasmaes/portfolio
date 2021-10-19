@@ -1,5 +1,5 @@
 - Hélix, ne prend pas de stagiaires  
-- 2x Domaine du goût, répoe négative reçue rapidement, je ne correspond pas, repostulé le 14.07.21
+- 2x Domaine du goût, réponse négative reçue rapidement, je ne correspond pas, repostulé le 14.07.21
 - 2x Atol réponse négative, pas de stagiaire, repostulé le 05.07.21 réponse négative reçue le 07.07.21
 - Catapulpe, candidature envoyée le 22.06.21
 - Akyos, candidature envoyée le 22.06.21 ils ont pris mon cv en main propre
